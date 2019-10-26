@@ -23,6 +23,30 @@
           "suggestDeliveryTime": "4PM"
         }
       ]
+    },
+    {
+      "name": "Gowtham",
+      "contactNumber": 9789660242,
+      "address": "xxx, qwer Street, Chennai",
+      "canDetails": [
+        {
+          "type": "normal",
+          "count": 2,
+          "suggestDeliveryTime": "8PM"
+        }
+      ]
+    },
+    {
+      "name": "Harini",
+      "contactNumber": 9789660241,
+      "address": "xxx, zz Street, Chennai",
+      "canDetails": [
+        {
+          "type": "RO & UV filtered",
+          "count": 1,
+          "suggestDeliveryTime": "4PM"
+        }
+      ]
     }
   ],
   "canDetails" : [
