@@ -1,0 +1,32 @@
+{
+  "customerDetails": [
+    {
+      "name": "Bala",
+      "contactNumber": 9789660244,
+      "address": "xxx, ram Street, Chennai",
+      "canDetails": [
+        {
+          "type": "normal",
+          "count": 2,
+          "suggestDeliveryTime": "8PM"
+        }
+      ]
+    },
+    {
+      "name": "Keerthi",
+      "contactNumber": 9789660243,
+      "address": "xxx, yy Street, Chennai",
+      "canDetails": [
+        {
+          "type": "RO & UV filtered",
+          "count": 1,
+          "suggestDeliveryTime": "4PM"
+        }
+      ]
+    }
+  ],
+  "canDetails" : [
+      {"type": "normal", "rate": 35, "availableCount": 25},
+      {"type": "RO & UV filtered", "rate": 70, "availableCount": 20}
+  ]
+}
