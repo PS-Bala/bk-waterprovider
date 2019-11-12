@@ -49,8 +49,87 @@
       ]
     }
   ],
-  "canDetails" : [
-      {"type": "normal", "rate": 35, "availableCount": 25},
-      {"type": "RO & UV filtered", "rate": 70, "availableCount": 20}
+  "productDetails": [
+    {
+      "id": "Bisleri_20",
+      "type": "Bisleri",
+      "size": 20,
+      "rating": { "value": 5, "count": 2 },
+      "isBranded": true,
+      "price": 70,
+      "availableCount": 25
+    },
+    {
+      "id": "Bisleri_1",
+      "type": "Bisleri",
+      "size": 1,
+      "rating": { "value": 4, "count": 2 },
+      "isBranded": true,
+      "price": 20,
+      "availableCount": 25
+    },
+    {
+      "id": "Bisleri_2",
+      "type": "Bisleri",
+      "size": 2,
+      "rating": { "value": 3, "count": 2 },
+      "isBranded": true,
+      "price": 35,
+      "availableCount": 25
+    },
+    {
+      "id": "RO_20",
+      "type": "RO & UV filtered",
+      "size": 20,
+      "rating": { "value": 4.5, "count": 10 },
+      "isBranded": false,
+      "price": 35,
+      "availableCount": 40
+    },
+    {
+      "id": "Mineral_20",
+      "type": "Mineral water",
+      "size": 20,
+      "rating": { "value": 4.6, "count": 5 },
+      "isBranded": false,
+      "price": 40,
+      "availableCount": 40
+    },
+    {
+      "id": "Mineral_1",
+      "type": "Mineral water",
+      "size": 1,
+      "rating": { "value": 4.55, "count": 2 },
+      "isBranded": false,
+      "price": 10,
+      "availableCount": 40
+    },
+    {
+      "id": "Mineral_2",
+      "type": "Mineral water",
+      "size": 2,
+      "rating": { "value": 3, "count": 1 },
+      "isBranded": false,
+      "price": 15,
+      "availableCount": 40
+    },
+    {
+      "id": "AF_2",
+      "type": "AquaFina water",
+      "size": 2,
+      "rating": { "value": 4, "count": 2 },
+      "isBranded": false,
+      "price": 20,
+      "availableCount": 40
+    },
+    {
+      "id": "AF_20",
+      "type": "AquaFina water",
+      "size": 20,
+      "rating": { "value": 5, "count": 2 },
+      "isBranded": false,
+      "price": 80,
+      "availableCount": 40
+    }
   ]
 }
