@@ -1,51 +1,12 @@
 {
   "customerDetails": [
     {
-      "name": "Bala",
-      "contactNumber": 9789660244,
-      "address": "xxx, ram Street, Chennai",
-      "canDetails": [
-        {
-          "type": "normal",
-          "count": 2,
-          "suggestDeliveryTime": "8PM"
-        }
-      ]
-    },
-    {
-      "name": "Keerthi",
-      "contactNumber": 9789660243,
-      "address": "xxx, yy Street, Chennai",
-      "canDetails": [
-        {
-          "type": "RO & UV filtered",
-          "count": 1,
-          "suggestDeliveryTime": "4PM"
-        }
-      ]
-    },
-    {
-      "name": "Gowtham",
-      "contactNumber": 9789660242,
-      "address": "xxx, qwer Street, Chennai",
-      "canDetails": [
-        {
-          "type": "normal",
-          "count": 2,
-          "suggestDeliveryTime": "8PM"
-        }
-      ]
-    },
-    {
-      "name": "Harini",
-      "contactNumber": 9789660241,
-      "address": "xxx, zz Street, Chennai",
-      "canDetails": [
-        {
-          "type": "RO & UV filtered",
-          "count": 1,
-          "suggestDeliveryTime": "4PM"
-        }
+      name: "Manoj",
+      contactNumber: 1234556789,
+      address: "Plot no 121, 12th main Road, Anna nagar, Chennai",
+      shoppedItems: [
+        { id: "Mineral_2", count: 1 },
+        { id: "Mineral_20", count: 2 }
       ]
     }
   ],
