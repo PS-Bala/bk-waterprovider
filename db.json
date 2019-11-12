@@ -1,12 +1,12 @@
 {
   "customerDetails": [
     {
-      name: "Manoj",
-      contactNumber: 1234556789,
-      address: "Plot no 121, 12th main Road, Anna nagar, Chennai",
-      shoppedItems: [
-        { id: "Mineral_2", count: 1 },
-        { id: "Mineral_20", count: 2 }
+      "name": "Manoj",
+      "contactNumber": 1234556789,
+      "address": "Plot no 121, 12th main Road, Anna nagar, Chennai",
+      "shoppedItems": [
+        { "id": "Mineral_2", "count": 1 },
+        { "id": "Mineral_20", "count": 2 }
       ]
     }
   ],
