@@ -3,10 +3,17 @@
     {
       "name": "Manoj",
       "contactNumber": 1234556789,
+      "id": 1234556789,
       "address": "Plot no 121, 12th main Road, Anna nagar, Chennai",
       "shoppedItems": [
-        { "id": "Mineral_2", "count": 1 },
-        { "id": "Mineral_20", "count": 2 }
+        {
+          "id": "Mineral_2",
+          "count": 1
+        },
+        {
+          "id": "Mineral_20",
+          "count": 2
+        }
       ]
     }
   ],
@@ -15,7 +22,10 @@
       "id": "Bisleri_20",
       "type": "Bisleri",
       "size": 20,
-      "rating": { "value": 5, "count": 2 },
+      "rating": {
+        "value": 5,
+        "count": 2
+      },
       "isBranded": true,
       "price": 70,
       "availableCount": 25
@@ -24,7 +34,10 @@
       "id": "Bisleri_1",
       "type": "Bisleri",
       "size": 1,
-      "rating": { "value": 4, "count": 2 },
+      "rating": {
+        "value": 4,
+        "count": 2
+      },
       "isBranded": true,
       "price": 20,
       "availableCount": 25
@@ -33,7 +46,10 @@
       "id": "Bisleri_2",
       "type": "Bisleri",
       "size": 2,
-      "rating": { "value": 3, "count": 2 },
+      "rating": {
+        "value": 3,
+        "count": 2
+      },
       "isBranded": true,
       "price": 35,
       "availableCount": 25
@@ -42,7 +58,10 @@
       "id": "RO_20",
       "type": "RO & UV filtered",
       "size": 20,
-      "rating": { "value": 4.5, "count": 10 },
+      "rating": {
+        "value": 4.5,
+        "count": 10
+      },
       "isBranded": false,
       "price": 35,
       "availableCount": 40
@@ -51,7 +70,10 @@
       "id": "Mineral_20",
       "type": "Mineral water",
       "size": 20,
-      "rating": { "value": 4.6, "count": 5 },
+      "rating": {
+        "value": 4.6,
+        "count": 5
+      },
       "isBranded": false,
       "price": 40,
       "availableCount": 40
@@ -60,7 +82,10 @@
       "id": "Mineral_1",
       "type": "Mineral water",
       "size": 1,
-      "rating": { "value": 4.55, "count": 2 },
+      "rating": {
+        "value": 4.55,
+        "count": 2
+      },
       "isBranded": false,
       "price": 10,
       "availableCount": 40
@@ -69,7 +94,10 @@
       "id": "Mineral_2",
       "type": "Mineral water",
       "size": 2,
-      "rating": { "value": 3, "count": 1 },
+      "rating": {
+        "value": 3,
+        "count": 1
+      },
       "isBranded": false,
       "price": 15,
       "availableCount": 40
@@ -78,7 +106,10 @@
       "id": "AF_2",
       "type": "AquaFina water",
       "size": 2,
-      "rating": { "value": 4, "count": 2 },
+      "rating": {
+        "value": 4,
+        "count": 2
+      },
       "isBranded": false,
       "price": 20,
       "availableCount": 40
@@ -87,7 +118,10 @@
       "id": "AF_20",
       "type": "AquaFina water",
       "size": 20,
-      "rating": { "value": 5, "count": 2 },
+      "rating": {
+        "value": 5,
+        "count": 2
+      },
       "isBranded": false,
       "price": 80,
       "availableCount": 40
